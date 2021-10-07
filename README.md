@@ -1,4 +1,8 @@
-### Hi there 👋
+## ABOUT ME:
+
+Hi there! I am new here and learning github and open-source. also i would very much appreciate if
+someone has a nice idea to improve this .md file 😄.
+
 
 <!--
 **zenoR-git/zenoR-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
