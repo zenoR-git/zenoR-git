@@ -1,7 +1,7 @@
 ## ABOUT ME:
 
 Hi there! I am new here and learning github and open-source. also i would very much appreciate if
-someone has a nice idea to improve this .md file 😄.
+someone has nice ideas to improve this .md file 😄.
 
 
 <!--
