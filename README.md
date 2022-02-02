@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/zenoR-git/zenoR-git)
 ## ABOUT ME:
 
 Hi there! I am new here and learning github and open-source. also i would very much appreciate if
