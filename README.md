@@ -3,7 +3,7 @@
 ![header](/resources_profile/profile1.jpg)
 ## ABOUT ME:
 
-Hi! my name is Ratan Kumar Pradhan. I am currently a second year student persuing bachelor degree in computer science and engineering. I am from India, and currently living in Odisha. I am a web-developer in making, and love to learn new technologies. :heart: opensource technolies. Also pentesting is my hobby 🤓.
+Hi! my name is Ratan Kumar Pradhan. I am currently a second year student persuing bachelor degree in computer science and engineering. I am from India, and currently living in Odisha. I am a web-developer in making, and love to learn new technologies. :heart: opensource technologies. Also pentesting is my hobby 🤓.
 
 
 <!--
